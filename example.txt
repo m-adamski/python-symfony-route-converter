@@ -1,0 +1,1 @@
+#[Route("/{_locale}/dashboard", name: "dashboard", methods: ["GET"])]
